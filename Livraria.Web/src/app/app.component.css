@@ -1,0 +1,6 @@
+:host .mat-toolbar {
+  background-color: var(--mat-sys-primary-container);
+}
+.content {
+  padding: 1em;
+}

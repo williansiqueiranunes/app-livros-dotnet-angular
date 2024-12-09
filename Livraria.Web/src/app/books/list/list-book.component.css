@@ -1,0 +1,8 @@
+:host mat-card-header {
+  justify-content: flex-end;
+}
+.no-data {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}

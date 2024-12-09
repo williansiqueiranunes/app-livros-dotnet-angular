@@ -1,0 +1,11 @@
+:host mat-card-content {
+  padding-top: 2em;
+}
+:host mat-card-footer {
+  display: flex;
+  justify-content: flex-end;
+  padding: .6em;
+}
+.livro-form, :host mat-form-field {
+  width: 100%;
+}
